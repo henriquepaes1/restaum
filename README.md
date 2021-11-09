@@ -12,9 +12,9 @@ uma posição que não pode ser ocupada no tabuleiro, −1 representa uma posiç
 1 representa uma posição ocupada com uma peçaa. Assim, por exemplo, o tabuleiro inicial usual do
 jogo abaixo poderia ser representado pela matriz 7 × 7 subsequente.
 
-![Imagem](imagem.png)
-
 ![Imagem1](imagem1.png)
+
+![Imagem](imagem.png)
 
 ## O programa
 O programa percorre o tabuleiro diversas vezes, e a cada posição onde há uma peça, é
